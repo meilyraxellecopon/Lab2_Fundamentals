@@ -2,3 +2,5 @@
 *
 !.gitignore
 !*.ipynb
+!Lab2_Challenge_Tasks/
+!Lab2_Challenge_Tasks/*.ipynb
